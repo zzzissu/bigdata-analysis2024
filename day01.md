@@ -56,4 +56,18 @@
 데이터 분석(로딩, 처리..) 라이브러리
 
 1. Pandas 자료구조
-   - 시리즈, 데이터프레임
+
+- 시리즈, 데이터프레임
+- 데이터프레임 사용법
+- 데이터 통합
+
+#### VS Code 문제확인
+
+1. Jupyter Notebook 실행 속도 느려지는 문제
+
+- Ctrl + ,(설정) > Jupyter > Logging: Level -> off or Verbose로 변경(debug 기본값)
+
+2. Intellisense로 느려짐
+
+- Ctrl + ,(설정) > TypeScript, Editor > Suggest 모두 해제
+- 필요한 것만 체크해서 사용
