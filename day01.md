@@ -37,14 +37,16 @@
 
 데이터 분석을 위한 라이브러리(모듈) 학습부터 시작
 
+- Folium : 지도 시각화 라이브러리
 - Pandas : 데이터 처리 라이브러리
 - Numpy : 수치해석, 계산용 라이브러리
 - openpyxl(Excel, csv용 라이브러리) : 엑셀, CSV, JSON 문서 데이터 로드, 저장 라이브러리
-- Selenium : 웹 크롤링 자동화 라이브러리
-- BeautifulSoup : 웹 데이터를 정제 라이브러리
 - Matplot.lib : 차트 표현 라이브러리
 - Seaborn : 시각화 라이브러리
-- Folium : 지도 시각화 라이브러리
+
+- Selenium : 웹 크롤링 자동화 라이브러리
+- BeautifulSoup : 웹 데이터를 정제 라이브러리
+
 - TendorFlow : 머신러닝 라이브러리
 - PyTorch : 머신러닝, 딥러닝 라이브러리
 - 등...

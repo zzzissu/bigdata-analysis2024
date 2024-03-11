@@ -28,4 +28,18 @@ Scipy는 과학쪽에 특화된 계산관련 라이브러리
 
 #### Matplot.lib / Seaborn
 
-Matplot.lib, Seaborn은 데이터 시각화 라이브러리
+Matplotlib, Seaborn은 데이터 시각화 라이브러리
+Matplotlib 기본, Seaborn은 Matplotlib 확장버전
+
+#### ChromDriver
+
+- 웹 브라우저 제어 라이브러리
+- 크롬 드라이버 필수
+
+  1.  현재 크롬 브라우저 버전 확인
+      ![크롬 버전확인](https://raw.githubusercontent.com/zzzissu/bigdata-analysis2024/main/images/ba003.png)
+
+  2.  https://googlechromelabs.github.io/chrome-for-testing/ 에서 다운로드
+  3.  시스템 속성 > 환경 변수 경로 등록
+  4.  셀레니움 연동, 실행
+      ![셀레니움 연동](https://raw.githubusercontent.com/zzzissu/bigdata-analysis2024/main/images/ba004.png)
