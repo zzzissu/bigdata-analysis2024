@@ -10,17 +10,23 @@
   - 파이썬 기본 리뷰
   - 빅데이터 분석 기초
 
-## [2일차](https://github.com/zzzissu/bigdata-analysis2024/blob/main/day01.md)
+## [2일차](https://github.com/zzzissu/bigdata-analysis2024/blob/main/day02.md)
 
 - 빅데이터 학습
   - 빅데이터 분석 기초(계속)
-    - 기본 라이브러리 사용법 학습
+    - Pandas 사용법 학습
+    - Numpy 사용법 학습
+    - Matplotlib, seabron 사용법 학습
+    - selenium 사용법 진행중
 
-## 3일차
+## [3일차](https://github.com/zzzissu/bigdata-analysis2024/blob/main/day03.md)
 
 - 빅데이터 학습
   - 빅데이터 분석 기초(계속)
-    - 기본 라이브러리 사용법
+    - selenium 사용법
+    - BeautifulSoup4 사용법
+  - 빅데이터 분석 실습
+    - COVID19 영향으로 중국인 관광객수 감소 분석
 
 ## 4일차
 
