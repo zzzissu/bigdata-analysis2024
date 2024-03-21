@@ -66,5 +66,9 @@
 
 - 빅데이터 실습
   - OpenAPI 기반 크롤링 실습
-  - 통계 분석 리뷰
-  - 머신러닝 실습
+  - 통계 분석 (와인품질)리뷰
+
+## [10일차](https://github.com/zzzissu/bigdata-analysis2024/blob/main/day10.md)
+
+- 빅데이터 실습
+  - 통계 분석 (와인품질)리뷰 (완)
