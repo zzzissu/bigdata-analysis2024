@@ -85,3 +85,8 @@
 - 머신러닝
   - 로지스틱회귀 분석
   - 결정트리 분석
+
+## [13일차](https://github.com/zzzissu/bigdata-analysis2024/blob/main/day11.md)
+
+- 머신러닝 실습
+  - 텍스트 마이닐, 감성분석
